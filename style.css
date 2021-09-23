@@ -77,7 +77,7 @@ h2{
 }
 
 .form-control.error small{
-  visibility: inherit;
+  visibility: visible;
 }
 
 .form button{
